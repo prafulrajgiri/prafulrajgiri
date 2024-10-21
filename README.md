@@ -1,5 +1,5 @@
-## Hi there 👋
-I am a Tech Enthusiast currently pursuing my batchelor's degree.
+## Hi there 👋 I am a Tech Enthusiast currently pursuing my batchelor's degree.
+
 I'm currently working on semester project.
 <!--
 **prafulrajgiri/prafulrajgiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
