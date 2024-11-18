@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Praful 👋🏼:
-🛜 A Tech Enthusiast<br>👨🏼‍🎓 Studying Bachelor of Computer Applications at Hetauda City College<br>👨🏼‍💻 <br>🎬
+🛜 A Tech Enthusiast<br>👨🏼‍🎓 Studying Bachelor of Computer Applications at Hetauda City College
 
 
 # 💻 Tech Stack:
