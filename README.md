@@ -33,7 +33,7 @@
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prafulrajgiti/prafulrajgiri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prafulrajgiri/prafulrajgiri/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prafulrajgiri/prafulrajgiri/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/prafulrajgiri/prafulrajgiri/output/github-snake.svg" />
 </picture>
